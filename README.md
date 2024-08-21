@@ -5,10 +5,14 @@ This Blog App is a full-stack web application that allows users to create, view,
 
 ## Features
 
-Create Posts: Authenticated users can write and publish new blog posts.
-View Posts: Users can view all published posts, with options to filter or search for specific content.
-Like Posts: Users can like their favorite posts, with the like count dynamically updated.
-Comment on Posts: Users can leave comments on posts, creating an interactive discussion around each article.
+### Create Posts: 
+Authenticated users can write and publish new blog posts.
+### View Posts: 
+Users can view all published posts, with options to filter or search for specific content.
+### Like Posts:
+Users can like their favorite posts, with the like count dynamically updated.
+### Comment on Posts:
+Users can leave comments on posts, creating an interactive discussion around each article.
 
 ## Installation
 
