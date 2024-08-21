@@ -1,7 +1,7 @@
 # Blog-App
 
 ## Overview
-This Blog App is a full-stack web application that allows users to create, view, like, and comment on blog posts. Built using Express, Node.js, and MongoDB, the app is designed to provide a simple yet powerful platform for sharing and interacting with content.
+This Blog App is a backend web application that allows users to create, view, like, and comment on blog posts. Built using Express, Node.js, and MongoDB, the app is designed to provide a simple yet powerful platform for sharing and interacting with content.
 
 ## Features
 
